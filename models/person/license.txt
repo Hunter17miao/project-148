@@ -1,0 +1,11 @@
+Model Information:
+* title:	Person
+* source:	https://sketchfab.com/3d-models/person-6d9f0553427d43b98d269558c84061f1
+* author:	Maksim.vorobiov (https://sketchfab.com/Maksim.vorobiov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Person" (https://sketchfab.com/3d-models/person-6d9f0553427d43b98d269558c84061f1) by Maksim.vorobiov (https://sketchfab.com/Maksim.vorobiov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
